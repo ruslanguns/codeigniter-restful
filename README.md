@@ -10,10 +10,11 @@ This is an in-process project for creating a good API with CodeIgniter.
 - [x] Whitelist && Blacklist
 - [x] CI Logs for every API Request
 - [x] Pagination Helper for API Requests
+- [x] JWT for PHP
+- [x] Login App for JWT
+- [ ] DB Test with JWT
 - [ ] Modification timestamps/ Search by criteria
 - [ ] Sorting Helper for requests
-- [ ] JWT for PHP
-- [ ] Login App for JWT
 - [ ] User roles
 - [ ] Dynamic Menu
 - [ ] Upload Documents and Images with restrictions
