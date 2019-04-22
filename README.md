@@ -1,4 +1,4 @@
-# REST FULL API with CodeIgniter
+# RESTFUL API with CodeIgniter
 
 This is an in-process project for creating a good API with CodeIgniter.
 
