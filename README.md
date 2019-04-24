@@ -13,7 +13,7 @@ Author: Ruslan Gonzalez
 This is an in-process project for creating a good API with CodeIgniter.
 
 ### POSTMAN API
-[Check the API](https://app.getpostman.com/join-team?invite_code=741217621ecb31d43d3efaf5f5608c33)
+[Check the API](https://documenter.getpostman.com/view/2862569/S1EUvc8W)
 
 ### Download DB tables
 Comming soon...
