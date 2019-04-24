@@ -2,6 +2,9 @@
 
 This is an in-process project for creating a good API with CodeIgniter.
 
+Nota: 
+Si quieres contribuir con el proyecto siéntete libre en hacerle un fork y enviarme como pull request tus mejoras para que juntos creemos algo muy asombroso.
+
 ### Contribution TODO for this API Features
 
 - [x] CRUD API (GET, PUT, POST, DELETE)
@@ -12,7 +15,7 @@ This is an in-process project for creating a good API with CodeIgniter.
 - [x] Pagination Helper for API Requests
 - [x] JWT for PHP
 - [x] Login App for JWT
-- [ ] DB Test with JWT
+- [x] DB Test with JWT
 - [ ] Modification timestamps/ Search by criteria
 - [ ] Sorting Helper for requests
 - [ ] User roles
